@@ -24,19 +24,19 @@ return [
             "cidade" => "Alagoinha do Piauí",
             "latitude" => "-7.004722",
             "longitude" => "-40.939444",
-            "populacao" => "5.193"
+            "populacao" => "6.819"//verificado 2022
         ],
         [
             "cidade" => "Alegrete do Piauí",
             "latitude" => "-7.242222",
             "longitude" => "-40.856944",
-            "populacao" => "4.936"
+            "populacao" => "4.634"//verificado 2022
         ],
         [
             "cidade" => "Alto Longá",
             "latitude" => "-5.256111",
             "longitude" => "-42.209167",
-            "populacao" => "15.360"
+            "populacao" => "13.479"//verificado 2022
         ],
         [
             "cidade" => "Altos",
@@ -96,7 +96,7 @@ return [
             "cidade" => "Assunção do Piauí",
             "latitude" => "-5.865278",
             "longitude" => "-41.038889",
-            "populacao" => "3.431"
+            "populacao" => "7.452"//verificado 2022
         ],
         [
             "cidade" => "Avelino Lopes",
