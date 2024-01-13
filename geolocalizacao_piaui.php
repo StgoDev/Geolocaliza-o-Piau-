@@ -108,325 +108,325 @@ return [
             "cidade" => "Baixa Grande do Ribeiro",
             "latitude" => "-7.849722",
             "longitude" => "-45.219722",
-            "populacao" => "6.595"
+            "populacao" => "13.272"//verificado 2022
         ],
         [
             "cidade" => "Barra d'Alcântara",
             "latitude" => "-6.516944",
             "longitude" => "-42.114722",
-            "populacao" => "3.317"
+            "populacao" => "3.995"//verificado 2022
         ],
         [
             "cidade" => "Barras",
             "latitude" => "-4.244722",
             "longitude" => "-42.292500",
-            "populacao" => "46.923"
+            "populacao" => "47.938"//verificado 2022
         ],
         [
             "cidade" => "Barreiras do Piauí",
             "latitude" => "-9.929444",
             "longitude" => "-45.470556",
-            "populacao" => "2.725"
+            "populacao" => "3.264"//verificado 2022
         ],
         [
             "cidade" => "Barro Duro",
             "latitude" => "-5.816111",
             "longitude" => "-42.514444",
-            "populacao" => "3.816"
+            "populacao" => "6.640"//verificado 2022
         ],
         [
             "cidade" => "Batalha",
             "latitude" => "-4.022500",
             "longitude" => "-42.075833",
-            "populacao" => "20.496"
+            "populacao" => "26.300"//verificado 2022
         ],
         [
             "cidade" => "Bela Vista do Piauí",
             "latitude" => "-7.988611",
             "longitude" => "-41.875833",
-            "populacao" => "3.487"
+            "populacao" => "4.091"//verificado 2022
         ],
         [
             "cidade" => "Belém do Piauí",
             "latitude" => "-7.366944",
             "longitude" => "-40.968333",
-            "populacao" => "3.196"
+            "populacao" => "3.423"//verificado 2022
         ],
         [
             "cidade" => "Beneditinos",
             "latitude" => "-5.456389",
             "longitude" => "-42.363889",
-            "populacao" => "10.569"
+            "populacao" => "9.929"//verificado 2022
         ],
         [
             "cidade" => "Bertolínia",
             "latitude" => "-7.633889",
             "longitude" => "-43.949167",
-            "populacao" => "3.820"
+            "populacao" => "5.562"//verificado 2022
         ],
         [
             "cidade" => "Betânia do Piauí",
             "latitude" => "-8.143889",
             "longitude" => "-40.798889",
-            "populacao" => "3.220"
+            "populacao" => "6.220"//verificado 2022
         ],
         [
             "cidade" => "Boa Hora",
             "latitude" => "-4.406111",
             "longitude" => "-42.135000",
-            "populacao" => "3.232"
+            "populacao" => "6.902"//verificado 2022
         ],
         [
             "cidade" => "Bocaina",
             "latitude" => "-6.457222",
             "longitude" => "-42.124722",
-            "populacao" => "9.704"
+            "populacao" => "4.078"//verificado 2022
         ],
         [
             "cidade" => "Bom Jesus",
             "latitude" => "-9.073333",
             "longitude" => "-44.358333",
-            "populacao" => "24.849"
+            "populacao" => "28.796"//verificado 2022
         ],
         [
             "cidade" => "Bom Princípio do Piauí",
             "latitude" => "-3.196111",
             "longitude" => "-41.640556",
-            "populacao" => "3.590"
+            "populacao" => "5.636"//verificado 2022
         ],
         [
             "cidade" => "Bonfim do Piauí",
             "latitude" => "-9.160278",
             "longitude" => "-42.886667",
-            "populacao" => "3.361"
+            "populacao" => "5.913"//verificado 2022
         ],
         [
             "cidade" => "Boqueirão do Piauí",
             "latitude" => "-4.477500",
             "longitude" => "-42.121944",
-            "populacao" => "3.117"
+            "populacao" => "6.545"//verificado 2022
         ],
         [
             "cidade" => "Brasileira",
             "latitude" => "-4.134722",
             "longitude" => "-41.785556",
-            "populacao" => "5.894"
+            "populacao" => "8.436"//verificado 2022
         ],
         [
             "cidade" => "Brejo do Piauí",
             "latitude" => "-8.203056",
             "longitude" => "-42.822778",
-            "populacao" => "3.093"
+            "populacao" => "3.904"//verificado 2022
         ],
         [
             "cidade" => "Buriti dos Lopes",
             "latitude" => "-3.182222",
             "longitude" => "-41.869722",
-            "populacao" => "14.234"
+            "populacao" => "19.654"//verificado 2022
         ],
         [
             "cidade" => "Buriti dos Montes",
             "latitude" => "-5.305556",
             "longitude" => "-41.093611",
-            "populacao" => "3.035"
+            "populacao" => "7.434"//verificado 2022
         ],
         [
             "cidade" => "Cabeceiras do Piauí",
             "latitude" => "-4.477778",
             "longitude" => "-42.307778",
-            "populacao" => "8.277"
+            "populacao" => "10.212"//verificado 2022
         ],
         [
             "cidade" => "Cajazeiras do Piauí",
             "latitude" => "-6.796389",
             "longitude" => "-42.390000",
-            "populacao" => "3.341"
+            "populacao" => "3.108"//verificado 2022
         ],
         [
             "cidade" => "Cajueiro da Praia",
             "latitude" => "-2.931389",
             "longitude" => "-41.340833",
-            "populacao" => "7.214"
+            "populacao" => "7.957"//verificado 2022
         ],
         [
             "cidade" => "Caldeirão Grande do Piauí",
             "latitude" => "-7.331389",
             "longitude" => "-40.636389",
-            "populacao" => "3.482"
+            "populacao" => "5.503"//verificado 2022
         ],
         [
             "cidade" => "Campinas do Piauí",
             "latitude" => "-7.659444",
             "longitude" => "-41.877778",
-            "populacao" => "2.614"
+            "populacao" => "4.938"//verificado 2022
         ],
         [
             "cidade" => "Campo Alegre do Fidalgo",
             "latitude" => "-8.382500",
             "longitude" => "-41.834167",
-            "populacao" => "3.175"
+            "populacao" => "4.616"//verificado 2022
         ],
         [
             "cidade" => "Campo Grande do Piauí",
             "latitude" => "-7.128611",
             "longitude" => "-41.031389",
-            "populacao" => "4.642"
+            "populacao" => "6.020"//verificado 2022
         ],
         [
             "cidade" => "Campo Largo do Piauí",
             "latitude" => "-3.804722",
             "longitude" => "-42.665278",
-            "populacao" => "3.477"
+            "populacao" => "7.419"//verificado 2022
         ],
         [
             "cidade" => "Campo Maior",
             "latitude" => "-4.821667",
             "longitude" => "-42.164167",
-            "populacao" => "46.307"
+            "populacao" => "45.793"//verificado 2022
         ],
         [
             "cidade" => "Canavieira",
             "latitude" => "-7.692778",
             "longitude" => "-43.724167",
-            "populacao" => "3.372"
+            "populacao" => "3.414"//verificado 2022
         ],
         [
             "cidade" => "Canto do Buriti",
             "latitude" => "-8.111667",
             "longitude" => "-42.943611",
-            "populacao" => "17.253"
+            "populacao" => "19.365"//verificado 2022
         ],
         [
             "cidade" => "Capitão de Campos",
             "latitude" => "-4.457778",
             "longitude" => "-41.943611",
-            "populacao" => "6.152"
+            "populacao" => "11.100"//verificado 2022
         ],
         [
             "cidade" => "Capitão Gervásio Oliveira",
             "latitude" => "-8.496944",
             "longitude" => "-41.814722",
-            "populacao" => "3.282"
+            "populacao" => "3.974"//verificado 2022
         ],
         [
             "cidade" => "Caracol",
             "latitude" => "-9.279167",
             "longitude" => "-43.329167",
-            "populacao" => "9.244"
+            "populacao" => "10.318"//verificado 2022
         ],
         [
             "cidade" => "Caraúbas do Piauí",
             "latitude" => "-3.475278",
             "longitude" => "-41.834722",
-            "populacao" => "3.141"
+            "populacao" => "5.630"//verificado 2022
         ],
         [
             "cidade" => "Caridade do Piauí",
             "latitude" => "-7.734444",
             "longitude" => "-40.984167",
-            "populacao" => "3.011"
+            "populacao" => "5.033"//verificado 2022
         ],
         [
             "cidade" => "Castelo do Piauí",
             "latitude" => "-5.322778",
             "longitude" => "-41.550833",
-            "populacao" => "18.763"
+            "populacao" => "19.288"//verificado 2022
         ],
         [
             "cidade" => "Caxingó",
             "latitude" => "-3.419167",
             "longitude" => "-41.895000",
-            "populacao" => "4.687"
+            "populacao" => "5.496"//verificado 2022
         ],
         [
             "cidade" => "Cocal",
             "latitude" => "-3.465556",
             "longitude" => "-41.556389",
-            "populacao" => "24.200"
+            "populacao" => "28.212"//verificado 2022
         ],
         [
             "cidade" => "Cocal de Telha",
             "latitude" => "-4.557500",
             "longitude" => "-41.958889",
-            "populacao" => "2.984"
+            "populacao" => "4.911"//verificado 2022
         ],
         [
             "cidade" => "Cocal dos Alves",
             "latitude" => "-3.621944",
             "longitude" => "-41.440278",
-            "populacao" => "3.481"
+            "populacao" => "6.386"//verificado 2022
         ],
         [
             "cidade" => "Coivaras",
             "latitude" => "-5.092778",
             "longitude" => "-42.211389",
-            "populacao" => "5.155"
+            "populacao" => "4.117"//verificado 2022
         ],
         [
             "cidade" => "Colônia do Gurguéia",
             "latitude" => "-8.210000",
             "longitude" => "-43.794444",
-            "populacao" => "3.515"
+            "populacao" => "6.150"//verificado 2022
         ],
         [
             "cidade" => "Colônia do Piauí",
             "latitude" => "-7.226944",
             "longitude" => "-42.175000",
-            "populacao" => "3.554"
+            "populacao" => "6.994"//verificado 2022
         ],
         [
             "cidade" => "Conceição do Canindé",
             "latitude" => "-7.876111",
             "longitude" => "-41.594167",
-            "populacao" => "3.363"
+            "populacao" => "4.932"//verificado 2022
         ],
         [
             "cidade" => "Coronel José Dias",
             "latitude" => "-8.813611",
             "longitude" => "-42.523333",
-            "populacao" => "3.100"
+            "populacao" => "4.250"//verificado 2022
         ],
         [
             "cidade" => "Corrente",
             "latitude" => "-10.433611",
             "longitude" => "-45.163056",
-            "populacao" => "24.321"
+            "populacao" => "27.278"//verificado 2022
         ],
         [
             "cidade" => "Cristalândia do Piauí",
             "latitude" => "-10.644444",
             "longitude" => "-45.189444",
-            "populacao" => "3.564"
+            "populacao" => "7.356"//verificado 2022
         ],
         [
             "cidade" => "Cristino Castro",
             "latitude" => "-8.822500",
             "longitude" => "-44.236944",
-            "populacao" => "11.156"
+            "populacao" => "10.503"//verificado 2022
         ],
         [
             "cidade" => "Curimatá",
             "latitude" => "-10.032778",
             "longitude" => "-44.300833",
-            "populacao" => "10.364"
+            "populacao" => "11.270"//verificado 2022
         ],
         [
             "cidade" => "Currais",
             "latitude" => "-9.011667",
             "longitude" => "-44.406667",
-            "populacao" => "3.330"
+            "populacao" => "4.854"//verificado 2022
         ],
         [
             "cidade" => "Curral Novo do Piauí",
             "latitude" => "-7.831944",
             "longitude" => "-40.895833",
-            "populacao" => "2.866"
+            "populacao" => "5.073"//verificado 2022
         ],
         [
             "cidade" => "Curralinhos",
             "latitude" => "-5.608056",
             "longitude" => "-42.837222",
-            "populacao" => "3.420"
+            "populacao" => "4.413"//verificado 2022
         ],
         [
             "cidade" => "Demerval Lobão",
